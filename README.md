@@ -21,3 +21,4 @@ git config user.email "rinaldsbalodis13@gmail.com"
 
 ## Status
 Viss ir baigi forši
+Man liekas kad github ir ļoti noderīgs.
